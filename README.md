@@ -1,2 +1,3 @@
 # Colour_Picker
 Colour Picker using HTML, CSS, and JavaScript
+This is a simple and intuitive Color Picker web app built using HTML, CSS, and a touch of JavaScript, styled with Bootstrap for a clean and responsive layout. The interface features a color input element that allows users to choose any color, and it automatically displays the corresponding HEX code in a text input field. As users select a color, the background of the main display area updates in real-time to reflect their selection. This tool is great for designers, developers, or anyone needing a quick way to pick and visualize colors. Just open the HTML file in any modern browser and you're good to go and no installations or dependencies are required beyond the included Bootstrap CDN.
